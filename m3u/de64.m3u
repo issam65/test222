@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,------ SKY DEUTSCHLAND ------
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3669.m3u8
+#EXTINF:-1,Local DE: RTL2
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5555.m3u8
+#EXTINF:-1,Local DE: Super-RTL
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5532.m3u8
+#EXTINF:-1,Local DE: VOX
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5531.m3u8
+#EXTINF:-1,Local DE: ARTE
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5563.m3u8
+#EXTINF:-1,Local De: ZDF
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5529.m3u8
+#EXTINF:-1,Local DE: KIKA
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5559.m3u8
+#EXTINF:-1,Local DE: KABEL-1
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5560.m3u8
+#EXTINF:-1,Local DE: SKY-SWR
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5534.m3u8
+#EXTINF:-1,Local DE: WDR-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5530.m3u8
+#EXTINF:-1,------ KINO ------
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3670.m3u8
+#EXTINF:-1,Local DE: SKY Cinema
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5550.m3u8
+#EXTINF:-1,Local DE: SKY-Cinema 1
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5549.m3u8
+#EXTINF:-1,Local DE: SKY Cinema 24
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5548.m3u8
+#EXTINF:-1,Local DE: Sky-Action
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5552.m3u8
+#EXTINF:-1,Local DE: SKY-EMOTION
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5547.m3u8
+#EXTINF:-1,Local DE: SKY Hits HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5545.m3u8
+#EXTINF:-1,Local DE: SKY-Hits
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5546.m3u8
+#EXTINF:-1,------- UNTERHALTUNG ------
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3671.m3u8
+#EXTINF:-1,Local DE: SKY Krimi
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5544.m3u8
+#EXTINF:-1,Local DE: SKY-13TH-STREET
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5553.m3u8
+#EXTINF:-1,Local DE: sky-13-streat
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5554.m3u8
+#EXTINF:-1,Local DE: SKY-TNT-SERIE
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5533.m3u8
+#EXTINF:-1,Local DE: disney-juniore
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5561.m3u8
+#EXTINF:-1,------ SPORT DE ------
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3673.m3u8
+#EXTINF:-1,Local DE: Sky-Sport-1HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5535.m3u8
+#EXTINF:-1,Local DE: Sky-Bundesliga-HD-1
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5551.m3u8
+#EXTINF:-1,------ KULTUR ------
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3674.m3u8
+#EXTINF:-1,Local DE: NAT-GEO-WILD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5556.m3u8
+#EXTINF:-1,Local DE: Nat-Geo-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5557.m3u8
+#EXTINF:-1,Local DE: NAT-GEO
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5558.m3u8
+#EXTINF:-1,Local DE: DISCOVERY-CHANNEL
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5562.m3u8
+#EXTINF:-1,Discovery
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3651.m3u8
+#EXTINF:-1,ARD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3534.m3u8
+#EXTINF:-1,Deutsche Welle
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/3533.m3u8
+#EXTINF:-1,Local DE: SKY-SELECT-1HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5542.m3u8
+#EXTINF:-1,Local DE: SKY-SELECT-2HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5541.m3u8
+#EXTINF:-1,Local DE: SKY-SELECT-3HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5540.m3u8
+#EXTINF:-1,Local DE: SKY-SELECT-4HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5539.m3u8
+#EXTINF:-1,Local DE: SKY-SELECT-5HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5538.m3u8
+#EXTINF:-1,Local DE: SKY-SELECT-6HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5537.m3u8
+#EXTINF:-1,Local DE: SKY-SELECT-7HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5536.m3u8
+#EXTINF:-1,Local DE: SKY-SELCT-8-HD
+http://iptv-diabolik2015.dyndns.org:8000/live/anton/anton/5543.m3u8
